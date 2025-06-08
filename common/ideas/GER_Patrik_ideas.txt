@@ -1,0 +1,112 @@
+ideas = {
+	country = {
+		# Kezdő Nemzeti Szellemek
+		HUN_falhozvert_lofasz = {
+			picture = GFX_idea_economic_crisis
+			removal_cost = -1
+			modifier = {
+				stability_factor = -0.20
+				production_factory_output_factor = -0.35
+				construction_speed_factor = -0.50
+				consumer_goods_factor = 0.40
+				trade_opinion_factor = -0.50
+			}
+		}
+
+		HUN_trianon_nagyon_faj = {
+			picture = GFX_idea_treaty_of_trianon
+			removal_cost = -1
+			modifier = {
+				recruitable_population_factor = -0.05
+				war_support_factor = -0.30
+				surrender_limit = -0.20
+				political_power_gain = -0.10
+			}
+		}
+
+		HUN_a_ciganyok = {
+			picture = GFX_idea_generic_ethnic_tensions
+			removal_cost = -1
+			modifier = {
+				stability_factor = -0.10
+				political_power_gain = -0.05
+				consumer_goods_factor = 0.05
+				recruitable_population_factor = -0.15
+			}
+		}
+
+		HUN_jonnek_a_migransok = {
+			picture = GFX_idea_refugee_crisis
+			removal_cost = -1
+			modifier = {
+				stability_factor = -0.10
+				ideology_drift_defence = -0.25
+			}
+		}
+	}
+	
+	# Politikai Tanácsadók
+	political_advisor = {
+		GER_Toki_advisor = {
+			picture = GFX_idea_generic_foreign_minister
+			allowed = { original_tag = HUN }
+			cost = 150
+			traits = { foreign_minister }
+			modifier = {
+				opinion_gain_monthly_factor = 0.10
+			}
+		}
+		
+		GER_Gobi_advisor = {
+			picture = GFX_idea_generic_political_advisor
+			allowed = { original_tag = HUN }
+			cost = 150
+			traits = { popular_figurehead }
+			modifier = {
+				stability_factor = 0.10
+			}
+		}
+		
+		GER_Sabagah_advisor = {
+			picture = GFX_idea_generic_propaganda_minister
+			allowed = { original_tag = HUN }
+			cost = 150
+			traits = { propaganda_minister }
+			modifier = {
+				war_support_factor = 0.10
+			}
+		}
+
+		HUN_Biggie_Cheese_advisor = {
+			picture = GFX_idea_generic_cavalry_leader
+			allowed = { original_tag = HUN }
+			cost = 150
+			traits = { army_chief }
+			modifier = {
+				division_attack_factor = 0.10
+				division_org_factor = 0.05
+			}
+		}
+
+		HUN_Hokuszpok_advisor = {
+			picture = GFX_idea_prince_of_terror
+			allowed = { original_tag = HUN }
+			cost = 150
+			traits = { captain_of_industry }
+			modifier = {
+				industrial_capacity_factory = 0.15
+				consumer_goods_factor = -0.05
+			}
+		}
+		
+		HUN_Tung_Tung_Sahur_advisor = {
+			picture = GFX_idea_generic_intelligence_agency_director
+			allowed = { original_tag = HUN }
+			cost = 150
+			traits = { silent_workhorse }
+			modifier = {
+				political_power_gain = 0.15
+			}
+		}
+	}
+}
