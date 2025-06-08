@@ -1,0 +1,2 @@
+load_focus_tree = GER_patrik_tree
+add_ideas = { HUN_falhozvert_lofasz HUN_trianon_nagyon_faj HUN_a_ciganyok HUN_jonnek_a_migransok }
