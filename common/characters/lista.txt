@@ -1,0 +1,16 @@
+characters = {
+	#Adolf Schneider
+	lista_adolf_schneider = {
+		name = lista_adolf_schneider
+		portraits = {
+			civilian = {
+				large = GFX_lista_adolf_schneider_large
+			}
+		}
+		country_leader = {
+			ideology = neutrality
+			traits = { old_guard }
+			expire = ""
+		}
+	}
+}

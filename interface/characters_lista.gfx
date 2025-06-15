@@ -1,0 +1,10 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_lista_adolf_schneider_large"
+		texturefile = "gfx/characters/lista/lista_adolf_schneider_large.dds"
+	}
+	spriteType = {
+		name = "GFX_lista_adolf_schneider_small"
+		texturefile = "gfx/characters/lista/lista_adolf_schneider_small.dds"
+	}
+}
