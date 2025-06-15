@@ -1,2 +1,0 @@
-HUN = "countries/Magyar.txt"
-KBU = "countries/Kurger Bing Union.txt"
