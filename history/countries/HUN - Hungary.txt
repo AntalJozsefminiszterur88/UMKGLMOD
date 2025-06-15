@@ -1,0 +1,10 @@
+set_politics = {
+    ruling_party = fascism
+    last_election = "1936.1.1"
+    election_frequency = 48
+    elections_allowed = no
+}
+set_leader = { name = "Adolf Schneider" ideology = fascism picture = "gfx/leaders/HUN/portrait_hun_adolf_schneider.dds" }
+
+load_focus_tree = GER_patrik_tree
+add_ideas = { HUN_falhozvert_lofasz HUN_trianon_nagyon_faj HUN_a_ciganyok HUN_jonnek_a_migransok }

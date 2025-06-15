@@ -1,0 +1,22 @@
+ideas = {
+	economy = {
+
+		hun_falhozvert_lfasz = {
+			picture = hun_falhozvert_lfasz-819511
+			cost = -3
+			modifier = {
+				modifier = {
+    consumer_goods_factor = 0.4
+    stability_factor = -0.2
+    trade_opinion_factor = -0.5
+}
+
+			}
+		}
+
+		hun_a_cignyok = {
+			picture = hun_a_cignyok-623501
+			ledger = army
+		}
+	}
+}
