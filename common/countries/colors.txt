@@ -1120,7 +1120,3 @@ HUN = {
 	color = rgb { 66 157 154 }
 	color_ui = rgb { 66 157 154 }
 }
-KBU = {
-	color = rgb { 220 97 45 }
-	color_ui = rgb { 220 97 45 }
-}
