@@ -4,7 +4,7 @@ set_politics = {
     election_frequency = 48
     elections_allowed = no
 }
-set_leader = { name = "Adolf Schneider" ideology = fascism picture = "gfx/leaders/HUN/portrait_hun_adolf_schneider.dds" }
+set_leader = { name = "Adolf Schneider" ideology = fascism picture = "gfx/characters/lista/lista_adolf_schneider_large.dds" }
 
 load_focus_tree = GER_patrik_tree
 add_ideas = { HUN_falhozvert_lofasz HUN_trianon_nagyon_faj HUN_a_ciganyok HUN_jonnek_a_migransok }
