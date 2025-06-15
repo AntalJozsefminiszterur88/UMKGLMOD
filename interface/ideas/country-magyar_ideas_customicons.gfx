@@ -1,0 +1,8 @@
+spriteTypes = { 
+	##Icon For: Gábor Áron Lézerágyúgyár
+	spriteType = { 
+		name = "GFX_idea_HUN_idea_gaboraronlezeragyugyar"
+		texturefile = "gfx/interface/ideas/HUN/HUN_idea_gaboraronlezeragyugyar.dds"
+	}
+
+}

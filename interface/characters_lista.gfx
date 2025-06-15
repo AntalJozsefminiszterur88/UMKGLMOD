@@ -7,4 +7,20 @@ spriteTypes = {
 		name = "GFX_lista_adolf_schneider_small"
 		texturefile = "gfx/characters/lista/lista_adolf_schneider_small.dds"
 	}
+	spriteType = {
+		name = "GFX_lista_supremeleaderdandarpatrik_large"
+		texturefile = "gfx/characters/lista/lista_supremeleaderdandarpatrik_large.dds"
+	}
+	spriteType = {
+		name = "GFX_lista_supremeleaderdandarpatrik_small"
+		texturefile = "gfx/characters/lista/lista_supremeleaderdandarpatrik_small.dds"
+	}
+	spriteType = {
+		name = "GFX_lista_chugger_shidjimbo_large"
+		texturefile = "gfx/characters/lista/lista_chugger_shidjimbo_large.dds"
+	}
+	spriteType = {
+		name = "GFX_lista_chugger_shidjimbo_small"
+		texturefile = "gfx/characters/lista/lista_chugger_shidjimbo_small.dds"
+	}
 }

@@ -1,15 +1,15 @@
 spriteTypes = { 
 	##Icon For: Falhozvert Lófasz
-        SpriteType = {
-                name = "GFX_idea_HUN_falhozvert_lofasz"
-                texturefile = "gfx/interface/ideas/magyar-ideak-ideas/hun_falhozvert_lfasz-819511.dds"
-        }
+	SpriteType = { 
+		name = "GFX_idea_hun_falhozvert_lfasz-819511"
+		texturefile = "gfx/interface/ideas/magyar-ideak-ideas/hun_falhozvert_lfasz-819511.dds"
+	}
 
 	##Icon For: A Cigányok
-        SpriteType = {
-                name = "GFX_idea_HUN_a_ciganyok"
-                texturefile = "gfx/interface/ideas/magyar-ideak-ideas/hun_a_cignyok-623501.dds"
-        }
+	SpriteType = { 
+		name = "GFX_idea_hun_a_cignyok-623501"
+		texturefile = "gfx/interface/ideas/magyar-ideak-ideas/hun_a_cignyok-623501.dds"
+	}
 
  
  }

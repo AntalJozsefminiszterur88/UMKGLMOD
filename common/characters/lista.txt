@@ -8,8 +8,36 @@ characters = {
 			}
 		}
 		country_leader = {
-                    ideology = fascism
+			ideology = neutrality
 			traits = { old_guard }
+			expire = ""
+		}
+	}
+	#Supreme Leader Dandár Patrik
+	lista_supremeleaderdandarpatrik = {
+		name = lista_supremeleaderdandarpatrik
+		portraits = {
+			civilian = {
+				large = GFX_lista_supremeleaderdandarpatrik_large
+			}
+		}
+		country_leader = {
+			ideology = nazism
+			traits = { dictator great_architect }
+			expire = ""
+		}
+	}
+	#Chugger Shid-Jimbo
+	lista_chugger_shidjimbo = {
+		name = lista_chugger_shidjimbo
+		portraits = {
+			civilian = {
+				large = GFX_lista_chugger_shidjimbo_large
+			}
+		}
+		country_leader = {
+			ideology = fascism
+			traits = {  }
 			expire = ""
 		}
 	}
