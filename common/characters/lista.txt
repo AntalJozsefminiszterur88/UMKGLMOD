@@ -8,7 +8,7 @@ characters = {
 			}
 		}
 		country_leader = {
-			ideology = neutrality
+                    ideology = fascism
 			traits = { old_guard }
 			expire = ""
 		}
